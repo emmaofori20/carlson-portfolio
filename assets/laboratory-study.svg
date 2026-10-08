@@ -1,0 +1,10 @@
+﻿<svg xmlns="http://www.w3.org/2000/svg" width="800" height="850" viewBox="0 0 800 850">
+<defs><linearGradient id="bg" x2="1" y2="1"><stop stop-color="#f0ddbc"/><stop offset="1" stop-color="#e0bc83"/></linearGradient><linearGradient id="glass"><stop stop-color="#fffaf1" stop-opacity=".65"/><stop offset=".22" stop-color="#fff9eb" stop-opacity=".15"/><stop offset=".8" stop-color="#ba8b51" stop-opacity=".15"/><stop offset="1" stop-color="#fffaf1" stop-opacity=".7"/></linearGradient><linearGradient id="liquid" x2=".5" y2="1"><stop stop-color="#d4a153" stop-opacity=".5"/><stop offset="1" stop-color="#936333" stop-opacity=".75"/></linearGradient><filter id="shadow"><feGaussianBlur stdDeviation="16"/></filter></defs>
+<rect width="800" height="850" fill="url(#bg)"/>
+<circle cx="406" cy="376" r="286" fill="#f7ecd8" opacity=".45"/>
+<path d="M0 698h800" stroke="#987240" opacity=".2"/>
+<ellipse cx="403" cy="703" rx="257" ry="34" fill="#6d4e29" opacity=".23" filter="url(#shadow)"/>
+<g stroke="#fff4df" stroke-width="2"><path d="M241 229h94v196l98 202q26 64-45 64H186q-67 0-43-64l98-202Z" fill="url(#glass)"/><path d="M207 509h161l65 118q26 64-45 64H186q-67 0-43-64Z" fill="url(#liquid)"/><ellipse cx="288" cy="509" rx="81" ry="10" fill="#e5bd7c"/><ellipse cx="288" cy="229" rx="47" ry="10" fill="#f6e8cd" fill-opacity=".5"/><path d="M252 249v178l-93 201q-13 33 1 45" fill="none" stroke-opacity=".65" stroke-width="7"/>
+<path d="M467 343h167v324q0 30-84 30t-83-30Z" fill="url(#glass)"/><path d="M467 535h167v132q0 30-84 30t-83-30Z" fill="url(#liquid)"/><ellipse cx="550" cy="535" rx="83" ry="14" fill="#e6bb76"/><ellipse cx="550" cy="343" rx="83" ry="15" fill="#fff5e1" fill-opacity=".35"/><path d="M486 358v299" stroke-width="6" stroke-opacity=".6"/></g>
+<g stroke="#6c522f" stroke-width="1.5" opacity=".5"><path d="M592 401h24m-15 30h15m-24 30h24m-15 30h15m-24 30h24m-15 30h15m-24 30h24m-15 30h15"/></g>
+<text x="57" y="79" font-family="Georgia,serif" font-style="italic" font-size="31" fill="#614829">The laboratory bench</text><text x="57" y="792" font-family="Arial,sans-serif" font-size="15" fill="#624c30">Water / experimental analysis / documentation</text></svg>
